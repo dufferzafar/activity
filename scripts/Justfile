@@ -1,0 +1,35 @@
+# Justfile - for running scripts
+# https://github.com/casey/just/
+
+list:
+    just -l
+
+setup:
+    uv venv --python 3.10 .env
+
+clean:
+    rm -rf .env
+
+sync:
+    uv --native-tls sync --active
+
+trakt-summarize:
+    uv run --active trakt/summarize.py --input trakt/history.jsonl
+
+trakt-collect:
+    uv run --active trakt/collect.py
+
+yt-summarize:
+    uv run --active music/summarize_search.py "../_data/Google Takeout/YouTube and YouTube Music/history/search-history.json"
+
+yt-queries:
+    uv run --active music/summarize_queries.py "../_data/Google Takeout/YouTube and YouTube Music/history/search-history.json"
+
+yt-cluster:
+    uv run --active music/cluster_search_queries.py --input ../ui/public/data/ytmusic.search.queries.json
+
+calls:
+    uv run --active iphone/call_history.py --pretty --db ../_data/iPhone/call_history.sqlite --output ../ui/public/data/calls.history.summary.json
+
+whatsapp:
+    uv run --active iphone/whatsapp.py ../_data/iPhone/whatsapp.sqlite --scope direct --out ../ui/public/data/whatsapp.history.summary.json

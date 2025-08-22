@@ -1,0 +1,21 @@
+[project]
+name = "activity-analytics"
+version = "0.1.0"
+description = "Data analytics for my digital activity"
+readme = "Readme.md"
+
+# Can't use 3.13 because of bertopic
+requires-python = ">=3.10"
+
+dependencies = [
+    "aiohttp",
+    # Used to cluster YouTube Music search queries
+    "bertopic",
+    "hdbscan",
+    "numpy",
+    "pandas",
+    "scikit-learn",
+    "sentence-transformers",
+    "tqdm",
+    "umap-learn",
+]
