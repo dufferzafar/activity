@@ -1,0 +1,14 @@
+# Justfile - for running scripts
+# https://github.com/casey/just/
+
+list:
+    just -l
+
+clean:
+    rm -rf node_modules
+
+install:
+    pnpm install
+
+run:
+    pnpm run dev
