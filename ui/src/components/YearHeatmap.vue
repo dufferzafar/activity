@@ -76,9 +76,8 @@ onMounted(() => {
       subDomain: { type: 'day', width: 14, height: 14, radius: 4 },
       scale: {
         color: {
-          type: 'linear',
-          // scheme: 'YlOrRd',
-          scheme: 'YlGnBu', 
+          type: 'quantize',
+          scheme: 'YlOrRd',
           domain: [0, maxValue],
         },
       },

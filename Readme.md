@@ -18,16 +18,21 @@ Analyse and report findings from my digital activity data.
         - https://github.com/nhn/tui.calendar
         - https://github.com/richardtallent/vue-simple-calendar
 
-* Layers
-    - Mood
-    - Psych followups
-    - Media sources
-    - Call log count
-    - Timeline activity
-    - WhatsApp msg counts
-    - Amazon spends
-
 ## sources
+
+- Mood
+
+- Media sources
+    - YouTube
+    - YouTube Music
+    - Trakt.tv
+
+- Google Photos
+
+- WhatsApp
+- Amazon spends
+- Call logs
+- Maps Timeline activity
 
 ### Trakt.tv
 
