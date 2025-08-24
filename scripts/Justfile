@@ -28,6 +28,9 @@ yt-queries:
 yt-cluster:
     uv run --active music/cluster_search_queries.py --input ../ui/public/data/ytmusic.search.queries.json
 
+yt-watch:
+    uv run --active youtube/summarize_watch.py "../_data/Google Takeout/YouTube and YouTube Music/history/watch-history.json"
+
 calls:
     uv run --active iphone/call_history.py --pretty --db ../_data/iPhone/call_history.sqlite --output ../ui/public/data/calls.history.summary.json
 
