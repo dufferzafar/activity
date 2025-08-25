@@ -1,0 +1,1490 @@
+[
+  {
+    "date": "2024-10-15",
+    "energy_burned_kcal": 6,
+    "steps": 479,
+    "walk_distance_meters": 275
+  },
+  {
+    "date": "2024-10-16",
+    "energy_burned_kcal": 185,
+    "steps": 5447,
+    "walk_distance_meters": 3374
+  },
+  {
+    "date": "2024-10-17",
+    "energy_burned_kcal": 217,
+    "steps": 6857,
+    "walk_distance_meters": 4903
+  },
+  {
+    "date": "2024-10-18",
+    "energy_burned_kcal": 29,
+    "steps": 659,
+    "walk_distance_meters": 431
+  },
+  {
+    "date": "2024-10-19",
+    "energy_burned_kcal": 187,
+    "steps": 6216,
+    "walk_distance_meters": 4319
+  },
+  {
+    "date": "2024-10-20",
+    "energy_burned_kcal": 189,
+    "steps": 5698,
+    "walk_distance_meters": 4240
+  },
+  {
+    "date": "2024-10-21",
+    "energy_burned_kcal": 166,
+    "steps": 5276,
+    "walk_distance_meters": 3722
+  },
+  {
+    "date": "2024-10-22",
+    "energy_burned_kcal": 295,
+    "steps": 8187,
+    "walk_distance_meters": 6157
+  },
+  {
+    "date": "2024-10-23",
+    "energy_burned_kcal": 64,
+    "steps": 1464,
+    "walk_distance_meters": 916
+  },
+  {
+    "date": "2024-10-24",
+    "energy_burned_kcal": 53,
+    "steps": 1857,
+    "walk_distance_meters": 1122
+  },
+  {
+    "date": "2024-10-25",
+    "energy_burned_kcal": 157,
+    "steps": 4354,
+    "walk_distance_meters": 3217
+  },
+  {
+    "date": "2024-10-26",
+    "energy_burned_kcal": 13,
+    "steps": 485,
+    "walk_distance_meters": 303
+  },
+  {
+    "date": "2024-10-27",
+    "energy_burned_kcal": 240,
+    "steps": 7324,
+    "walk_distance_meters": 5144
+  },
+  {
+    "date": "2024-10-28",
+    "energy_burned_kcal": 0,
+    "steps": 112,
+    "walk_distance_meters": 67
+  },
+  {
+    "date": "2024-10-29",
+    "energy_burned_kcal": 109,
+    "steps": 4850,
+    "walk_distance_meters": 2921
+  },
+  {
+    "date": "2024-10-30",
+    "energy_burned_kcal": 219,
+    "steps": 5144,
+    "walk_distance_meters": 4106
+  },
+  {
+    "date": "2024-11-01",
+    "energy_burned_kcal": 71,
+    "steps": 2116,
+    "walk_distance_meters": 1483
+  },
+  {
+    "date": "2024-11-02",
+    "energy_burned_kcal": 123,
+    "steps": 5585,
+    "walk_distance_meters": 3346
+  },
+  {
+    "date": "2024-11-03",
+    "energy_burned_kcal": 20,
+    "steps": 864,
+    "walk_distance_meters": 506
+  },
+  {
+    "date": "2024-11-04",
+    "energy_burned_kcal": 27,
+    "steps": 1071,
+    "walk_distance_meters": 658
+  },
+  {
+    "date": "2024-11-05",
+    "energy_burned_kcal": 66,
+    "steps": 1776,
+    "walk_distance_meters": 1168
+  },
+  {
+    "date": "2024-11-06",
+    "energy_burned_kcal": 0,
+    "steps": 93,
+    "walk_distance_meters": 57
+  },
+  {
+    "date": "2024-11-07",
+    "energy_burned_kcal": 175,
+    "steps": 4678,
+    "walk_distance_meters": 3489
+  },
+  {
+    "date": "2024-11-08",
+    "energy_burned_kcal": 167,
+    "steps": 6167,
+    "walk_distance_meters": 4229
+  },
+  {
+    "date": "2024-11-09",
+    "energy_burned_kcal": 43,
+    "steps": 900,
+    "walk_distance_meters": 564
+  },
+  {
+    "date": "2024-11-10",
+    "energy_burned_kcal": 1,
+    "steps": 159,
+    "walk_distance_meters": 113
+  },
+  {
+    "date": "2024-11-11",
+    "energy_burned_kcal": 275,
+    "steps": 5453,
+    "walk_distance_meters": 4634
+  },
+  {
+    "date": "2024-11-12",
+    "energy_burned_kcal": 54,
+    "steps": 1998,
+    "walk_distance_meters": 1253
+  },
+  {
+    "date": "2024-11-13",
+    "energy_burned_kcal": 30,
+    "steps": 522,
+    "walk_distance_meters": 340
+  },
+  {
+    "date": "2024-11-14",
+    "energy_burned_kcal": 107,
+    "steps": 5333,
+    "walk_distance_meters": 3334
+  },
+  {
+    "date": "2024-11-15",
+    "energy_burned_kcal": 0,
+    "steps": 85,
+    "walk_distance_meters": 57
+  },
+  {
+    "date": "2024-11-16",
+    "energy_burned_kcal": 22,
+    "steps": 707,
+    "walk_distance_meters": 539
+  },
+  {
+    "date": "2024-11-17",
+    "energy_burned_kcal": 135,
+    "steps": 7005,
+    "walk_distance_meters": 4314
+  },
+  {
+    "date": "2024-11-18",
+    "energy_burned_kcal": 50,
+    "steps": 2855,
+    "walk_distance_meters": 1806
+  },
+  {
+    "date": "2024-11-19",
+    "energy_burned_kcal": 28,
+    "steps": 592,
+    "walk_distance_meters": 361
+  },
+  {
+    "date": "2024-11-20",
+    "energy_burned_kcal": 116,
+    "steps": 2921,
+    "walk_distance_meters": 1824
+  },
+  {
+    "date": "2024-11-21",
+    "energy_burned_kcal": 46,
+    "steps": 1764,
+    "walk_distance_meters": 1074
+  },
+  {
+    "date": "2024-11-23",
+    "energy_burned_kcal": 1,
+    "steps": 224,
+    "walk_distance_meters": 140
+  },
+  {
+    "date": "2024-11-24",
+    "energy_burned_kcal": 0,
+    "steps": 44,
+    "walk_distance_meters": 27
+  },
+  {
+    "date": "2024-11-25",
+    "energy_burned_kcal": 21,
+    "steps": 593,
+    "walk_distance_meters": 370
+  },
+  {
+    "date": "2024-11-26",
+    "energy_burned_kcal": 15,
+    "steps": 466,
+    "walk_distance_meters": 276
+  },
+  {
+    "date": "2024-11-27",
+    "energy_burned_kcal": 22,
+    "steps": 683,
+    "walk_distance_meters": 404
+  },
+  {
+    "date": "2024-11-28",
+    "energy_burned_kcal": 65,
+    "steps": 2285,
+    "walk_distance_meters": 1329
+  },
+  {
+    "date": "2024-11-29",
+    "energy_burned_kcal": 1,
+    "steps": 123,
+    "walk_distance_meters": 71
+  },
+  {
+    "date": "2024-11-30",
+    "energy_burned_kcal": 56,
+    "steps": 1370,
+    "walk_distance_meters": 879
+  },
+  {
+    "date": "2024-12-01",
+    "energy_burned_kcal": 63,
+    "steps": 2693,
+    "walk_distance_meters": 1651
+  },
+  {
+    "date": "2024-12-02",
+    "energy_burned_kcal": 47,
+    "steps": 1194,
+    "walk_distance_meters": 736
+  },
+  {
+    "date": "2024-12-03",
+    "energy_burned_kcal": 7,
+    "steps": 273,
+    "walk_distance_meters": 164
+  },
+  {
+    "date": "2024-12-04",
+    "energy_burned_kcal": 2,
+    "steps": 310,
+    "walk_distance_meters": 185
+  },
+  {
+    "date": "2024-12-05",
+    "energy_burned_kcal": 49,
+    "steps": 2106,
+    "walk_distance_meters": 1371
+  },
+  {
+    "date": "2024-12-06",
+    "energy_burned_kcal": 15,
+    "steps": 408,
+    "walk_distance_meters": 236
+  },
+  {
+    "date": "2024-12-07",
+    "energy_burned_kcal": 21,
+    "steps": 748,
+    "walk_distance_meters": 464
+  },
+  {
+    "date": "2024-12-08",
+    "energy_burned_kcal": 66,
+    "steps": 3201,
+    "walk_distance_meters": 1912
+  },
+  {
+    "date": "2024-12-09",
+    "energy_burned_kcal": 34,
+    "steps": 1215,
+    "walk_distance_meters": 763
+  },
+  {
+    "date": "2024-12-10",
+    "energy_burned_kcal": 21,
+    "steps": 704,
+    "walk_distance_meters": 489
+  },
+  {
+    "date": "2024-12-11",
+    "energy_burned_kcal": 252,
+    "steps": 6691,
+    "walk_distance_meters": 5139
+  },
+  {
+    "date": "2024-12-12",
+    "energy_burned_kcal": 61,
+    "steps": 2036,
+    "walk_distance_meters": 1290
+  },
+  {
+    "date": "2024-12-13",
+    "energy_burned_kcal": 153,
+    "steps": 5708,
+    "walk_distance_meters": 3442
+  },
+  {
+    "date": "2024-12-14",
+    "energy_burned_kcal": 36,
+    "steps": 1036,
+    "walk_distance_meters": 693
+  },
+  {
+    "date": "2024-12-15",
+    "energy_burned_kcal": 10,
+    "steps": 656,
+    "walk_distance_meters": 440
+  },
+  {
+    "date": "2024-12-16",
+    "energy_burned_kcal": 2,
+    "steps": 201,
+    "walk_distance_meters": 138
+  },
+  {
+    "date": "2024-12-17",
+    "energy_burned_kcal": 0,
+    "steps": 71,
+    "walk_distance_meters": 48
+  },
+  {
+    "date": "2024-12-18",
+    "energy_burned_kcal": 52,
+    "steps": 1380,
+    "walk_distance_meters": 863
+  },
+  {
+    "date": "2024-12-19",
+    "energy_burned_kcal": 64,
+    "steps": 2689,
+    "walk_distance_meters": 1603
+  },
+  {
+    "date": "2024-12-20",
+    "energy_burned_kcal": 113,
+    "steps": 3609,
+    "walk_distance_meters": 2168
+  },
+  {
+    "date": "2024-12-21",
+    "energy_burned_kcal": 23,
+    "steps": 913,
+    "walk_distance_meters": 552
+  },
+  {
+    "date": "2024-12-22",
+    "energy_burned_kcal": 24,
+    "steps": 914,
+    "walk_distance_meters": 578
+  },
+  {
+    "date": "2024-12-23",
+    "energy_burned_kcal": 196,
+    "steps": 7787,
+    "walk_distance_meters": 4856
+  },
+  {
+    "date": "2024-12-24",
+    "energy_burned_kcal": 2,
+    "steps": 271,
+    "walk_distance_meters": 154
+  },
+  {
+    "date": "2024-12-25",
+    "energy_burned_kcal": 18,
+    "steps": 574,
+    "walk_distance_meters": 351
+  },
+  {
+    "date": "2024-12-26",
+    "energy_burned_kcal": 15,
+    "steps": 236,
+    "walk_distance_meters": 148
+  },
+  {
+    "date": "2024-12-27",
+    "energy_burned_kcal": 6,
+    "steps": 304,
+    "walk_distance_meters": 187
+  },
+  {
+    "date": "2024-12-28",
+    "energy_burned_kcal": 1,
+    "steps": 179,
+    "walk_distance_meters": 98
+  },
+  {
+    "date": "2024-12-29",
+    "energy_burned_kcal": 38,
+    "steps": 1561,
+    "walk_distance_meters": 1082
+  },
+  {
+    "date": "2024-12-30",
+    "energy_burned_kcal": 18,
+    "steps": 476,
+    "walk_distance_meters": 289
+  },
+  {
+    "date": "2024-12-31",
+    "energy_burned_kcal": 146,
+    "steps": 5653,
+    "walk_distance_meters": 3871
+  },
+  {
+    "date": "2025-01-01",
+    "energy_burned_kcal": 26,
+    "steps": 1020,
+    "walk_distance_meters": 699
+  },
+  {
+    "date": "2025-01-02",
+    "energy_burned_kcal": 0,
+    "steps": 102,
+    "walk_distance_meters": 62
+  },
+  {
+    "date": "2025-01-03",
+    "energy_burned_kcal": 43,
+    "steps": 2221,
+    "walk_distance_meters": 1469
+  },
+  {
+    "date": "2025-01-04",
+    "energy_burned_kcal": 51,
+    "steps": 2150,
+    "walk_distance_meters": 1211
+  },
+  {
+    "date": "2025-01-05",
+    "energy_burned_kcal": 88,
+    "steps": 3965,
+    "walk_distance_meters": 2405
+  },
+  {
+    "date": "2025-01-06",
+    "energy_burned_kcal": 28,
+    "steps": 1155,
+    "walk_distance_meters": 670
+  },
+  {
+    "date": "2025-01-07",
+    "energy_burned_kcal": 38,
+    "steps": 1061,
+    "walk_distance_meters": 704
+  },
+  {
+    "date": "2025-01-08",
+    "energy_burned_kcal": 43,
+    "steps": 1787,
+    "walk_distance_meters": 1053
+  },
+  {
+    "date": "2025-01-09",
+    "energy_burned_kcal": 82,
+    "steps": 3071,
+    "walk_distance_meters": 2046
+  },
+  {
+    "date": "2025-01-10",
+    "energy_burned_kcal": 2,
+    "steps": 266,
+    "walk_distance_meters": 159
+  },
+  {
+    "date": "2025-01-11",
+    "energy_burned_kcal": 34,
+    "steps": 1056,
+    "walk_distance_meters": 736
+  },
+  {
+    "date": "2025-01-12",
+    "energy_burned_kcal": 1,
+    "steps": 215,
+    "walk_distance_meters": 138
+  },
+  {
+    "date": "2025-01-13",
+    "energy_burned_kcal": 78,
+    "steps": 2358,
+    "walk_distance_meters": 1556
+  },
+  {
+    "date": "2025-01-14",
+    "energy_burned_kcal": 16,
+    "steps": 455,
+    "walk_distance_meters": 294
+  },
+  {
+    "date": "2025-01-15",
+    "energy_burned_kcal": 17,
+    "steps": 365,
+    "walk_distance_meters": 234
+  },
+  {
+    "date": "2025-01-16",
+    "energy_burned_kcal": 27,
+    "steps": 448,
+    "walk_distance_meters": 328
+  },
+  {
+    "date": "2025-01-17",
+    "energy_burned_kcal": 1,
+    "steps": 82,
+    "walk_distance_meters": 55
+  },
+  {
+    "date": "2025-01-18",
+    "energy_burned_kcal": 23,
+    "steps": 590,
+    "walk_distance_meters": 375
+  },
+  {
+    "date": "2025-01-19",
+    "energy_burned_kcal": 283,
+    "steps": 10218,
+    "walk_distance_meters": 7004
+  },
+  {
+    "date": "2025-01-20",
+    "energy_burned_kcal": 258,
+    "steps": 10682,
+    "walk_distance_meters": 6750
+  },
+  {
+    "date": "2025-01-21",
+    "energy_burned_kcal": 274,
+    "steps": 9489,
+    "walk_distance_meters": 6497
+  },
+  {
+    "date": "2025-01-22",
+    "energy_burned_kcal": 197,
+    "steps": 8010,
+    "walk_distance_meters": 4995
+  },
+  {
+    "date": "2025-01-23",
+    "energy_burned_kcal": 74,
+    "steps": 3070,
+    "walk_distance_meters": 1947
+  },
+  {
+    "date": "2025-01-24",
+    "energy_burned_kcal": 541,
+    "steps": 18196,
+    "walk_distance_meters": 12438
+  },
+  {
+    "date": "2025-01-25",
+    "energy_burned_kcal": 258,
+    "steps": 8807,
+    "walk_distance_meters": 5738
+  },
+  {
+    "date": "2025-01-26",
+    "energy_burned_kcal": 344,
+    "steps": 14692,
+    "walk_distance_meters": 9072
+  },
+  {
+    "date": "2025-01-27",
+    "energy_burned_kcal": 389,
+    "steps": 15534,
+    "walk_distance_meters": 10199
+  },
+  {
+    "date": "2025-01-28",
+    "energy_burned_kcal": 402,
+    "steps": 14056,
+    "walk_distance_meters": 9827
+  },
+  {
+    "date": "2025-01-29",
+    "energy_burned_kcal": 347,
+    "steps": 12255,
+    "walk_distance_meters": 8495
+  },
+  {
+    "date": "2025-01-30",
+    "energy_burned_kcal": 144,
+    "steps": 5896,
+    "walk_distance_meters": 3392
+  },
+  {
+    "date": "2025-01-31",
+    "energy_burned_kcal": 254,
+    "steps": 10987,
+    "walk_distance_meters": 6668
+  },
+  {
+    "date": "2025-02-01",
+    "energy_burned_kcal": 524,
+    "steps": 21938,
+    "walk_distance_meters": 13565
+  },
+  {
+    "date": "2025-02-02",
+    "energy_burned_kcal": 334,
+    "steps": 12891,
+    "walk_distance_meters": 8637
+  },
+  {
+    "date": "2025-02-03",
+    "energy_burned_kcal": 180,
+    "steps": 7305,
+    "walk_distance_meters": 4421
+  },
+  {
+    "date": "2025-02-04",
+    "energy_burned_kcal": 275,
+    "steps": 8374,
+    "walk_distance_meters": 5979
+  },
+  {
+    "date": "2025-02-05",
+    "energy_burned_kcal": 79,
+    "steps": 2327,
+    "walk_distance_meters": 1510
+  },
+  {
+    "date": "2025-02-06",
+    "energy_burned_kcal": 206,
+    "steps": 8523,
+    "walk_distance_meters": 5228
+  },
+  {
+    "date": "2025-02-07",
+    "energy_burned_kcal": 344,
+    "steps": 9611,
+    "walk_distance_meters": 7132
+  },
+  {
+    "date": "2025-02-08",
+    "energy_burned_kcal": 328,
+    "steps": 12432,
+    "walk_distance_meters": 7969
+  },
+  {
+    "date": "2025-02-09",
+    "energy_burned_kcal": 564,
+    "steps": 22563,
+    "walk_distance_meters": 13453
+  },
+  {
+    "date": "2025-02-10",
+    "energy_burned_kcal": 208,
+    "steps": 8798,
+    "walk_distance_meters": 5226
+  },
+  {
+    "date": "2025-02-11",
+    "energy_burned_kcal": 338,
+    "steps": 11225,
+    "walk_distance_meters": 7680
+  },
+  {
+    "date": "2025-02-12",
+    "energy_burned_kcal": 387,
+    "steps": 14124,
+    "walk_distance_meters": 9172
+  },
+  {
+    "date": "2025-02-13",
+    "energy_burned_kcal": 59,
+    "steps": 2301,
+    "walk_distance_meters": 1394
+  },
+  {
+    "date": "2025-02-14",
+    "energy_burned_kcal": 299,
+    "steps": 11206,
+    "walk_distance_meters": 7126
+  },
+  {
+    "date": "2025-02-15",
+    "energy_burned_kcal": 17,
+    "steps": 540,
+    "walk_distance_meters": 347
+  },
+  {
+    "date": "2025-02-16",
+    "energy_burned_kcal": 179,
+    "steps": 8868,
+    "walk_distance_meters": 5308
+  },
+  {
+    "date": "2025-02-17",
+    "energy_burned_kcal": 95,
+    "steps": 2419,
+    "walk_distance_meters": 1524
+  },
+  {
+    "date": "2025-02-18",
+    "energy_burned_kcal": 159,
+    "steps": 3337,
+    "walk_distance_meters": 2799
+  },
+  {
+    "date": "2025-02-19",
+    "energy_burned_kcal": 203,
+    "steps": 4512,
+    "walk_distance_meters": 3495
+  },
+  {
+    "date": "2025-02-20",
+    "energy_burned_kcal": 222,
+    "steps": 8808,
+    "walk_distance_meters": 5549
+  },
+  {
+    "date": "2025-02-21",
+    "energy_burned_kcal": 136,
+    "steps": 5495,
+    "walk_distance_meters": 3531
+  },
+  {
+    "date": "2025-02-22",
+    "energy_burned_kcal": 130,
+    "steps": 3152,
+    "walk_distance_meters": 2313
+  },
+  {
+    "date": "2025-02-23",
+    "energy_burned_kcal": 311,
+    "steps": 9275,
+    "walk_distance_meters": 6668
+  },
+  {
+    "date": "2025-02-24",
+    "energy_burned_kcal": 222,
+    "steps": 9235,
+    "walk_distance_meters": 5671
+  },
+  {
+    "date": "2025-02-25",
+    "energy_burned_kcal": 49,
+    "steps": 1710,
+    "walk_distance_meters": 1171
+  },
+  {
+    "date": "2025-02-26",
+    "energy_burned_kcal": 141,
+    "steps": 3072,
+    "walk_distance_meters": 2233
+  },
+  {
+    "date": "2025-02-27",
+    "energy_burned_kcal": 58,
+    "steps": 2148,
+    "walk_distance_meters": 1351
+  },
+  {
+    "date": "2025-02-28",
+    "energy_burned_kcal": 102,
+    "steps": 2357,
+    "walk_distance_meters": 1941
+  },
+  {
+    "date": "2025-03-01",
+    "energy_burned_kcal": 110,
+    "steps": 2766,
+    "walk_distance_meters": 2112
+  },
+  {
+    "date": "2025-03-02",
+    "energy_burned_kcal": 5,
+    "steps": 529,
+    "walk_distance_meters": 295
+  },
+  {
+    "date": "2025-03-03",
+    "energy_burned_kcal": 216,
+    "steps": 9771,
+    "walk_distance_meters": 5598
+  },
+  {
+    "date": "2025-03-04",
+    "energy_burned_kcal": 3,
+    "steps": 272,
+    "walk_distance_meters": 165
+  },
+  {
+    "date": "2025-03-05",
+    "energy_burned_kcal": 458,
+    "steps": 14110,
+    "walk_distance_meters": 10000
+  },
+  {
+    "date": "2025-03-06",
+    "energy_burned_kcal": 222,
+    "steps": 9178,
+    "walk_distance_meters": 5518
+  },
+  {
+    "date": "2025-03-07",
+    "energy_burned_kcal": 431,
+    "steps": 16496,
+    "walk_distance_meters": 10689
+  },
+  {
+    "date": "2025-03-08",
+    "energy_burned_kcal": 532,
+    "steps": 20354,
+    "walk_distance_meters": 13333
+  },
+  {
+    "date": "2025-03-09",
+    "energy_burned_kcal": 292,
+    "steps": 12235,
+    "walk_distance_meters": 7610
+  },
+  {
+    "date": "2025-03-10",
+    "energy_burned_kcal": 371,
+    "steps": 15225,
+    "walk_distance_meters": 9658
+  },
+  {
+    "date": "2025-03-11",
+    "energy_burned_kcal": 405,
+    "steps": 16180,
+    "walk_distance_meters": 10062
+  },
+  {
+    "date": "2025-03-12",
+    "energy_burned_kcal": 398,
+    "steps": 7744,
+    "walk_distance_meters": 5624
+  },
+  {
+    "date": "2025-03-13",
+    "energy_burned_kcal": 338,
+    "steps": 7639,
+    "walk_distance_meters": 4804
+  },
+  {
+    "date": "2025-03-14",
+    "energy_burned_kcal": 225,
+    "steps": 5694,
+    "walk_distance_meters": 3704
+  },
+  {
+    "date": "2025-03-15",
+    "energy_burned_kcal": 183,
+    "steps": 4537,
+    "walk_distance_meters": 3172
+  },
+  {
+    "date": "2025-03-16",
+    "energy_burned_kcal": 177,
+    "steps": 4531,
+    "walk_distance_meters": 2851
+  },
+  {
+    "date": "2025-03-17",
+    "energy_burned_kcal": 675,
+    "steps": 10399,
+    "walk_distance_meters": 7048
+  },
+  {
+    "date": "2025-03-18",
+    "energy_burned_kcal": 355,
+    "steps": 7236,
+    "walk_distance_meters": 5244
+  },
+  {
+    "date": "2025-03-19",
+    "energy_burned_kcal": 291,
+    "steps": 6307,
+    "walk_distance_meters": 4136
+  },
+  {
+    "date": "2025-03-20",
+    "energy_burned_kcal": 189,
+    "steps": 2906,
+    "walk_distance_meters": 1948
+  },
+  {
+    "date": "2025-03-21",
+    "energy_burned_kcal": 43,
+    "steps": 400,
+    "walk_distance_meters": 268
+  },
+  {
+    "date": "2025-03-23",
+    "energy_burned_kcal": 84,
+    "steps": 1841,
+    "walk_distance_meters": 1190
+  },
+  {
+    "date": "2025-03-27",
+    "energy_burned_kcal": 249,
+    "steps": 3464,
+    "walk_distance_meters": 2385
+  },
+  {
+    "date": "2025-03-28",
+    "energy_burned_kcal": 399,
+    "steps": 9133,
+    "walk_distance_meters": 5940
+  },
+  {
+    "date": "2025-03-29",
+    "energy_burned_kcal": 73,
+    "steps": 760,
+    "walk_distance_meters": 462
+  },
+  {
+    "date": "2025-03-30",
+    "energy_burned_kcal": 17,
+    "steps": 343,
+    "walk_distance_meters": 218
+  },
+  {
+    "date": "2025-03-31",
+    "energy_burned_kcal": 3,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-04-02",
+    "energy_burned_kcal": 102,
+    "steps": 1516,
+    "walk_distance_meters": 1028
+  },
+  {
+    "date": "2025-04-03",
+    "energy_burned_kcal": 231,
+    "steps": 1962,
+    "walk_distance_meters": 1222
+  },
+  {
+    "date": "2025-04-04",
+    "energy_burned_kcal": 121,
+    "steps": 1508,
+    "walk_distance_meters": 959
+  },
+  {
+    "date": "2025-04-05",
+    "energy_burned_kcal": 305,
+    "steps": 6267,
+    "walk_distance_meters": 4117
+  },
+  {
+    "date": "2025-04-06",
+    "energy_burned_kcal": 64,
+    "steps": 742,
+    "walk_distance_meters": 439
+  },
+  {
+    "date": "2025-04-07",
+    "energy_burned_kcal": 155,
+    "steps": 1495,
+    "walk_distance_meters": 1134
+  },
+  {
+    "date": "2025-04-09",
+    "energy_burned_kcal": 106,
+    "steps": 1460,
+    "walk_distance_meters": 1019
+  },
+  {
+    "date": "2025-04-10",
+    "energy_burned_kcal": 402,
+    "steps": 7964,
+    "walk_distance_meters": 4788
+  },
+  {
+    "date": "2025-04-11",
+    "energy_burned_kcal": 134,
+    "steps": 1692,
+    "walk_distance_meters": 1126
+  },
+  {
+    "date": "2025-04-13",
+    "energy_burned_kcal": 26,
+    "steps": 372,
+    "walk_distance_meters": 227
+  },
+  {
+    "date": "2025-04-14",
+    "energy_burned_kcal": 318,
+    "steps": 6666,
+    "walk_distance_meters": 4537
+  },
+  {
+    "date": "2025-04-15",
+    "energy_burned_kcal": 0,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-04-16",
+    "energy_burned_kcal": 89,
+    "steps": 1241,
+    "walk_distance_meters": 870
+  },
+  {
+    "date": "2025-04-17",
+    "energy_burned_kcal": 502,
+    "steps": 4638,
+    "walk_distance_meters": 2632
+  },
+  {
+    "date": "2025-04-18",
+    "energy_burned_kcal": 3,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-04-19",
+    "energy_burned_kcal": 68,
+    "steps": 727,
+    "walk_distance_meters": 452
+  },
+  {
+    "date": "2025-04-20",
+    "energy_burned_kcal": 258,
+    "steps": 6726,
+    "walk_distance_meters": 4680
+  },
+  {
+    "date": "2025-04-21",
+    "energy_burned_kcal": 125,
+    "steps": 2996,
+    "walk_distance_meters": 1953
+  },
+  {
+    "date": "2025-04-22",
+    "energy_burned_kcal": 39,
+    "steps": 289,
+    "walk_distance_meters": 192
+  },
+  {
+    "date": "2025-04-23",
+    "energy_burned_kcal": 123,
+    "steps": 1400,
+    "walk_distance_meters": 1011
+  },
+  {
+    "date": "2025-04-24",
+    "energy_burned_kcal": 179,
+    "steps": 1837,
+    "walk_distance_meters": 1222
+  },
+  {
+    "date": "2025-04-25",
+    "energy_burned_kcal": 97,
+    "steps": 2701,
+    "walk_distance_meters": 1739
+  },
+  {
+    "date": "2025-04-26",
+    "energy_burned_kcal": 120,
+    "steps": 1589,
+    "walk_distance_meters": 1152
+  },
+  {
+    "date": "2025-04-27",
+    "energy_burned_kcal": 2,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-05-01",
+    "energy_burned_kcal": 357,
+    "steps": 6215,
+    "walk_distance_meters": 3874
+  },
+  {
+    "date": "2025-05-02",
+    "energy_burned_kcal": 0,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-05-05",
+    "energy_burned_kcal": 395,
+    "steps": 7133,
+    "walk_distance_meters": 4422
+  },
+  {
+    "date": "2025-05-06",
+    "energy_burned_kcal": 124,
+    "steps": 2355,
+    "walk_distance_meters": 1632
+  },
+  {
+    "date": "2025-05-07",
+    "energy_burned_kcal": 0,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-05-08",
+    "energy_burned_kcal": 207,
+    "steps": 1670,
+    "walk_distance_meters": 1123
+  },
+  {
+    "date": "2025-05-09",
+    "energy_burned_kcal": 98,
+    "steps": 1180,
+    "walk_distance_meters": 814
+  },
+  {
+    "date": "2025-05-12",
+    "energy_burned_kcal": 0,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-05-13",
+    "energy_burned_kcal": 57,
+    "steps": 975,
+    "walk_distance_meters": 707
+  },
+  {
+    "date": "2025-05-14",
+    "energy_burned_kcal": 203,
+    "steps": 2433,
+    "walk_distance_meters": 1627
+  },
+  {
+    "date": "2025-05-16",
+    "energy_burned_kcal": 0,
+    "steps": 12,
+    "walk_distance_meters": 8
+  },
+  {
+    "date": "2025-05-17",
+    "energy_burned_kcal": 0,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-05-18",
+    "energy_burned_kcal": 21,
+    "steps": 262,
+    "walk_distance_meters": 187
+  },
+  {
+    "date": "2025-05-19",
+    "energy_burned_kcal": 501,
+    "steps": 8850,
+    "walk_distance_meters": 5941
+  },
+  {
+    "date": "2025-05-21",
+    "energy_burned_kcal": 109,
+    "steps": 2152,
+    "walk_distance_meters": 1410
+  },
+  {
+    "date": "2025-05-22",
+    "energy_burned_kcal": 220,
+    "steps": 2565,
+    "walk_distance_meters": 1748
+  },
+  {
+    "date": "2025-05-23",
+    "energy_burned_kcal": 31,
+    "steps": 1168,
+    "walk_distance_meters": 828
+  },
+  {
+    "date": "2025-05-24",
+    "energy_burned_kcal": 0,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-06-12",
+    "energy_burned_kcal": 329,
+    "steps": 4176,
+    "walk_distance_meters": 2743
+  },
+  {
+    "date": "2025-06-13",
+    "energy_burned_kcal": 4,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-06-14",
+    "energy_burned_kcal": 2,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-06-15",
+    "energy_burned_kcal": 36,
+    "steps": 409,
+    "walk_distance_meters": 272
+  },
+  {
+    "date": "2025-06-18",
+    "energy_burned_kcal": 29,
+    "steps": 426,
+    "walk_distance_meters": 283
+  },
+  {
+    "date": "2025-06-19",
+    "energy_burned_kcal": 323,
+    "steps": 4500,
+    "walk_distance_meters": 2920
+  },
+  {
+    "date": "2025-06-23",
+    "energy_burned_kcal": 360,
+    "steps": 8268,
+    "walk_distance_meters": 5252
+  },
+  {
+    "date": "2025-06-24",
+    "energy_burned_kcal": 4,
+    "steps": 0,
+    "walk_distance_meters": 0
+  },
+  {
+    "date": "2025-06-25",
+    "energy_burned_kcal": 66,
+    "steps": 800,
+    "walk_distance_meters": 504
+  },
+  {
+    "date": "2025-06-26",
+    "energy_burned_kcal": 249,
+    "steps": 4323,
+    "walk_distance_meters": 2755
+  },
+  {
+    "date": "2025-06-28",
+    "energy_burned_kcal": 286,
+    "steps": 5948,
+    "walk_distance_meters": 3572
+  },
+  {
+    "date": "2025-07-01",
+    "energy_burned_kcal": 380,
+    "steps": 10503,
+    "walk_distance_meters": 6541
+  },
+  {
+    "date": "2025-07-02",
+    "energy_burned_kcal": 87,
+    "steps": 1378,
+    "walk_distance_meters": 956
+  },
+  {
+    "date": "2025-07-03",
+    "energy_burned_kcal": 172,
+    "steps": 2502,
+    "walk_distance_meters": 1568
+  },
+  {
+    "date": "2025-07-04",
+    "energy_burned_kcal": 0,
+    "steps": 17,
+    "walk_distance_meters": 17
+  },
+  {
+    "date": "2025-07-05",
+    "energy_burned_kcal": 41,
+    "steps": 254,
+    "walk_distance_meters": 166
+  },
+  {
+    "date": "2025-07-11",
+    "energy_burned_kcal": 186,
+    "steps": 4833,
+    "walk_distance_meters": 3043
+  },
+  {
+    "date": "2025-07-17",
+    "energy_burned_kcal": 196,
+    "steps": 2031,
+    "walk_distance_meters": 1384
+  },
+  {
+    "date": "2025-07-18",
+    "energy_burned_kcal": 76,
+    "steps": 1469,
+    "walk_distance_meters": 1014
+  },
+  {
+    "date": "2025-07-24",
+    "energy_burned_kcal": 134,
+    "steps": 2136,
+    "walk_distance_meters": 1482
+  },
+  {
+    "date": "2025-07-25",
+    "energy_burned_kcal": 0,
+    "steps": 8,
+    "walk_distance_meters": 4
+  },
+  {
+    "date": "2025-07-27",
+    "energy_burned_kcal": 0,
+    "steps": 20,
+    "walk_distance_meters": 13
+  },
+  {
+    "date": "2025-07-29",
+    "energy_burned_kcal": 182,
+    "steps": 1842,
+    "walk_distance_meters": 1262
+  },
+  {
+    "date": "2025-07-31",
+    "energy_burned_kcal": 43,
+    "steps": 523,
+    "walk_distance_meters": 331
+  },
+  {
+    "date": "2025-08-01",
+    "energy_burned_kcal": 399,
+    "steps": 5838,
+    "walk_distance_meters": 3672
+  },
+  {
+    "date": "2025-08-02",
+    "energy_burned_kcal": 344,
+    "steps": 6809,
+    "walk_distance_meters": 5147
+  },
+  {
+    "date": "2025-08-03",
+    "energy_burned_kcal": 444,
+    "steps": 2762,
+    "walk_distance_meters": 1738
+  },
+  {
+    "date": "2025-08-04",
+    "energy_burned_kcal": 327,
+    "steps": 300,
+    "walk_distance_meters": 208
+  },
+  {
+    "date": "2025-08-05",
+    "energy_burned_kcal": 466,
+    "steps": 3958,
+    "walk_distance_meters": 2585
+  },
+  {
+    "date": "2025-08-06",
+    "energy_burned_kcal": 999,
+    "steps": 17574,
+    "walk_distance_meters": 13465
+  },
+  {
+    "date": "2025-08-07",
+    "energy_burned_kcal": 529,
+    "steps": 3799,
+    "walk_distance_meters": 2836
+  },
+  {
+    "date": "2025-08-08",
+    "energy_burned_kcal": 638,
+    "steps": 713,
+    "walk_distance_meters": 461
+  },
+  {
+    "date": "2025-08-09",
+    "energy_burned_kcal": 893,
+    "steps": 9925,
+    "walk_distance_meters": 7393
+  },
+  {
+    "date": "2025-08-10",
+    "energy_burned_kcal": 338,
+    "steps": 7186,
+    "walk_distance_meters": 5150
+  },
+  {
+    "date": "2025-08-11",
+    "energy_burned_kcal": 685,
+    "steps": 11876,
+    "walk_distance_meters": 8369
+  },
+  {
+    "date": "2025-08-12",
+    "energy_burned_kcal": 793,
+    "steps": 9992,
+    "walk_distance_meters": 6929
+  },
+  {
+    "date": "2025-08-13",
+    "energy_burned_kcal": 710,
+    "steps": 10806,
+    "walk_distance_meters": 8458
+  },
+  {
+    "date": "2025-08-14",
+    "energy_burned_kcal": 599,
+    "steps": 4917,
+    "walk_distance_meters": 3492
+  },
+  {
+    "date": "2025-08-15",
+    "energy_burned_kcal": 612,
+    "steps": 1049,
+    "walk_distance_meters": 715
+  },
+  {
+    "date": "2025-08-16",
+    "energy_burned_kcal": 734,
+    "steps": 2959,
+    "walk_distance_meters": 2112
+  },
+  {
+    "date": "2025-08-17",
+    "energy_burned_kcal": 353,
+    "steps": 178,
+    "walk_distance_meters": 112
+  },
+  {
+    "date": "2025-08-18",
+    "energy_burned_kcal": 382,
+    "steps": 1587,
+    "walk_distance_meters": 1146
+  },
+  {
+    "date": "2025-08-19",
+    "energy_burned_kcal": 341,
+    "steps": 6212,
+    "walk_distance_meters": 4583
+  },
+  {
+    "date": "2025-08-20",
+    "energy_burned_kcal": 411,
+    "steps": 2121,
+    "walk_distance_meters": 1508
+  }
+]
