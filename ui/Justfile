@@ -12,3 +12,11 @@ install:
 
 run:
     pnpm run dev
+
+build:
+    pnpm run build
+
+deploy: build
+    cd ../../activity-pages && git pull
+    cp -r dist/* ../../activity-pages/
+    cd ../../activity-pages && git add . && git commit -m "Deploy UI $(date -u +"%Y-%m-%dT%H:%M:%SZ")" #&& git push

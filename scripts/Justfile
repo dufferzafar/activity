@@ -36,3 +36,6 @@ calls:
 
 whatsapp:
     uv run --active iphone/whatsapp.py ../_data/iPhone/whatsapp.sqlite --scope direct --out ../ui/public/data/whatsapp.history.summary.json
+
+health:
+    uv run --active iphone/health.py --pretty --db ../_data/iPhone/health_secure.sqlite --out ../ui/public/data/health.history.summary.json

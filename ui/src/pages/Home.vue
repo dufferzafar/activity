@@ -8,8 +8,18 @@ import { loadSearchSummary as loadYoutube, groupYears as groupYearsYT } from '..
 import { loadPhotosSummary, groupYears as groupYearsPhotos } from '../services/googlePhotosData';
 import { loadWhatsAppSummary, groupYears as groupYearsWhatsApp } from '../services/whatsappData';
 import { loadCallsSummary, groupYears as groupYearsCalls } from '../services/callsData';
+import { loadHealthSummary, groupYears as groupYearsHealth } from '../services/healthData';
 
-type DataSourceId = 'trakt' | 'ytmusic-search' | 'ytmusic-watch' | 'youtube-search' | 'youtube-watch' | 'photos' | 'whatsapp' | 'calls';
+type DataSourceId = 'trakt'
+  | 'ytmusic-search'
+  | 'ytmusic-watch'
+  | 'youtube-search'
+  | 'youtube-watch'
+  | 'photos'
+  | 'whatsapp'
+  | 'calls'
+  | 'health'
+;
 
 interface DataSourceConfig {
   id: DataSourceId;
@@ -84,6 +94,14 @@ const sources: DataSourceConfig[] = [
     valueLabel: 'min',
     load: () => loadCallsSummary('/activity/data/calls.history.summary.json'),
     groupYears: groupYearsCalls,
+  },
+  {
+    id: 'health',
+    label: 'Calories burned',
+    yField: 'energy_burned_kcal',
+    valueLabel: 'kcal burned',
+    load: () => loadHealthSummary('/activity/data/health.history.summary.json'),
+    groupYears: groupYearsHealth,
   },
 ];
 
